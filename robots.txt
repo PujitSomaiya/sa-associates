@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://pujitsomaiya.github.io/sa-associates/sitemap.xml
